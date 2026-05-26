@@ -174,7 +174,7 @@ a {
     height: 100vh;
     min-height: 700px;
     background: linear-gradient(to bottom, rgba(31, 58, 54, 0.75) 0%, rgba(15, 32, 29, 0.6) 50%, rgba(31, 58, 54, 0.8) 100%), 
-                url('https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1920&q=80') no-repeat center center/cover;
+         url('../assets/hero.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
